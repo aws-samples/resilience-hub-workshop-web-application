@@ -1,11 +1,8 @@
-## My Project
+## Resilience Hub Workshop Demo Application
 
-TODO: Fill this README out!
+This is a simple GuestBook application written with NodeJS and using a MySQL database.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+See workshop instructions for proper use of this repo.
 
 ## Security
 
@@ -14,4 +11,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
